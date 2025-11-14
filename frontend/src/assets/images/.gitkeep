@@ -1,0 +1,6 @@
+# This file ensures the images directory is tracked in git
+# Place the following images in this directory:
+# - diamond.png
+# - GB.png
+# - SE.png
+# - sverige43.jpg
